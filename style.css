@@ -1,0 +1,45 @@
+body{
+    background-color: tan;
+}
+.common{
+    background-color: aquamarine;
+    text-align: center;
+}
+#head{
+    color:darkmagenta;
+}
+#id2{
+    text-align: left;
+    padding: 20px;
+}
+#id3{
+    text-align: right;
+}
+header li{
+    display: inline-block;
+}
+header li a{
+    /* text-decoration: none; */
+    color: brown;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 18px;
+}
+header li a:hover{
+    background-color: black;
+    color: white;
+}
+#myData{
+    background-color:darkorange;
+    color:chartreuse;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+}
+
